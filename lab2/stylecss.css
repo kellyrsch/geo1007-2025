@@ -1,0 +1,37 @@
+body {
+  background:#f4d1ff;
+}
+
+
+body ol {
+  width: 570px;
+  border: 2px solid;
+  border-radius: 10px; 
+  background-color: #fff4bd;
+}
+
+
+#list_a {
+  font-family:'Verdana', sans-serif;
+}
+
+
+.list_b {
+  font-family:'papyrus';
+}
+
+
+p {
+  border: 5px solid;
+  padding: 5px;
+  background-color: #bdd4ff;
+}
+
+
+h1 {
+ font-family:'Helvetica';
+}
+
+h2 {
+  font-family:'Lucida Console';
+}

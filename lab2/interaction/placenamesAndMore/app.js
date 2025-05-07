@@ -298,7 +298,11 @@ var allFunctions = function () {
       requestWMSmap(lat, lng);
     }
   });
+<<<<<<< HEAD
 };
 
+=======
+}
+>>>>>>> ca69ea04cbf48085743c6a5c17c42fa7fec2da4c
 document.addEventListener("DOMContentLoaded", allFunctions);
 
